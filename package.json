@@ -1,0 +1,12 @@
+{
+  "name": "layero-demo-nobuild",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
